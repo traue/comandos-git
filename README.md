@@ -88,9 +88,9 @@
 
 ### DICA: 
 
-  **Como configurar e utilizar os comandos GIT (AULA Prática):**
+  **Como usar o Git e GitHub na prática - Primeiros passos:**
 	
-   https://www.youtube.com/watch?v=rnJbl94ZKtY
+   https://www.youtube.com/watch?v=IEz_0ZQZ3sQ
 	
 	
 Pronto!  
@@ -110,12 +110,12 @@ O seu git está configurado.
 	
 		Exemplo: 
 			- cd e:
-			- cd jogos
+			- cd projetos
 	
 	
 - **Passo 3 - Clonar repositorio remoto:**
 
-	git clone https://github.com/laboratoriodejogos/grupo_arquivos.git   (exemplo)
+	git clone https://github.com/geracaoti/comandos-git.git  (exemplo)
 
 
 Pronto!
@@ -164,8 +164,14 @@ O seu repositório já está configurado e pronto para uso.
 
 	- http://rogerdudler.github.io/git-guide/index.pt_BR.html
 	- https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es
+	
+	Rodrigo Branas
 	- https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
+	
+	RBtech
 	- https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
+
+	Loiane Groner
 	- https://www.youtube.com/watch?v=UMhskLXJuq4	
 
 	PUBLICAR WEB PAGE GIT
@@ -212,7 +218,7 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 	git config --global user.name "Daniel"
 
 ##### Setar email
-	git config --global user.email "daniel.fb.jr@gmail.com"
+	git config --global user.email "nome@gmail.com"
 	
 ##### Setar editor
 	git config --global core.editor vim
