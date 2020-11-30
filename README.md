@@ -56,14 +56,27 @@
 	
 	git config --global user.email "you@example.com"
 	
-	 git config --global user.name "Your Name"
+	git config --global user.name "Your Name"
+	
+	git config --global core.editor "code --wait"
 	
 	
 	
 	    COMANDOS EXTRAS NO GIT BASH:
 		
-		ls = listar diretório
+		ls = Listar diretório
+		ls -la = Listar arquivos ocultos
 		clear = Limpar tela
+		
+		cd c: = Entrar no diretorio c:
+		cd ~ = Entrar no perfil do usuário
+		cd .. = Ir para o diretório acima
+		cd - = Ir para o diretório anterior
+
+		mkdir = Criar um diretório
+		rmdir = Deletar um diretório
+		touch <nome_arquivo> = criar um arquivo
+		cat <arquivo> = Ler o arquivo
 		history -c = limpar comandos anteriores no terminal
 
 	
