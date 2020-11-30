@@ -17,7 +17,7 @@
 	
 		Exemplo: 	
 			cd e:
-			cd jogos
+			cd projetos
 				
 
 - **Passo 3 - Configurar o proxy no git (Se estiver em uma rede com PROXY):**
