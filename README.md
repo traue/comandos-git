@@ -16,7 +16,7 @@
 - **Passo 2 - Escolha o diretório de trabalho no Git Bash**
 	
 		Exemplo: 	
-			cd e:
+			cd c:
 			cd projetos
 				
 
@@ -109,7 +109,7 @@ O seu git está configurado.
 - **Passo 2 - Escolha o diretório de trabalho**
 	
 		Exemplo: 
-			- cd e:
+			- cd c:
 			- cd projetos
 	
 	
